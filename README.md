@@ -1,6 +1,9 @@
 基于react-redux+nodejs+mongodb的求职web app应用
 在根目录下面执行npm install之后使用npm start启动应用
 并且在server文件夹下，执行node server.js来启动后端服务
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
